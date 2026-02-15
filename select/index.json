@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Another Day in Paradise",
+  "base_artist": "Phil Collins",
+  "createdAt": "2026-02-15T14:17:53.519284Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Homeless (Another Day in Paradise Demo) (\"Another Day in Paradise\" Demo)",
+      "artist": "Phil Collins",
+      "has_synced": false,
+      "path": "select/01_Homeless_(Another_Day_in_Paradise_Demo)_(_Another_Day_in_Paradise__Demo)_Phil_Collins.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Another Day In Paradise",
+      "artist": "FOMA",
+      "has_synced": true,
+      "path": "select/02_Another_Day_In_Paradise_FOMA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Another Day In Paradise",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/03_Another_Day_In_Paradise_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Another Day In Paradise",
+      "artist": "Belly",
+      "has_synced": true,
+      "path": "select/04_Another_Day_In_Paradise_Belly.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Another Day in Paradise",
+      "artist": "Drud",
+      "has_synced": true,
+      "path": "select/05_Another_Day_in_Paradise_Drud.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Another Day in Paradise",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/06_Another_Day_in_Paradise_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Another Day in Paradise",
+      "artist": "AXXIS",
+      "has_synced": true,
+      "path": "select/07_Another_Day_in_Paradise_AXXIS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Another Day In Paradise",
+      "artist": "Brandy",
+      "has_synced": true,
+      "path": "select/08_Another_Day_In_Paradise_Brandy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Another Day in Paradise",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/09_Another_Day_in_Paradise_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Another Day In Paradise",
+      "artist": "Pyrrhon",
+      "has_synced": false,
+      "path": "select/10_Another_Day_In_Paradise_Pyrrhon.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Another Day in Paradise",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/11_Another_Day_in_Paradise_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Another Day In Paradise",
+      "artist": "David Cook",
+      "has_synced": false,
+      "path": "select/12_Another_Day_In_Paradise_David_Cook.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ANOTHER DAY IN PARADISE",
+      "artist": "I61",
+      "has_synced": true,
+      "path": "select/13_ANOTHER_DAY_IN_PARADISE_I61.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Another Day in Paradise",
+      "artist": "Phil Collins",
+      "has_synced": false,
+      "path": "select/14_Another_Day_in_Paradise_Phil_Collins.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Another Day in Paradise",
+      "artist": "Phil collins",
+      "has_synced": true,
+      "path": "select/15_Another_Day_in_Paradise_Phil_collins.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Another Day in Paradise",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/16_Another_Day_in_Paradise_Phil_Collins.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Another Day In Paradise",
+      "artist": "Phil Collins",
+      "has_synced": false,
+      "path": "select/pl_01_Another_Day_In_Paradise_Phil_Collins.txt"
+    }
+  ]
+}
